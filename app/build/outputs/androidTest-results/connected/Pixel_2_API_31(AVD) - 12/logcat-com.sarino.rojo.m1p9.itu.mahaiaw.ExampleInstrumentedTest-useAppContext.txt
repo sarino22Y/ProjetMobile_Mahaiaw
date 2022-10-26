@@ -1,0 +1,10 @@
+10-26 05:44:41.828 19770 19838 I TestRunner: started: useAppContext(com.sarino.rojo.m1p9.itu.mahaiaw.ExampleInstrumentedTest)
+10-26 05:44:41.937 17528 19297 E chromium: [ERROR:cookie_manager.cc(129)] Strict Secure Cookie policy does not allow setting a secure cookie for http://googleads.g.doubleclick.net/ for apps targeting >= R. Please either use the 'https:' scheme for this URL or omit the 'Secure' directive in the cookie value.
+10-26 05:44:41.944 17528 19152 D FA      : Event not sent since app measurement is disabled
+10-26 05:44:41.959 17528 17528 I Ads     : Ad failed to load : 3
+10-26 05:44:42.136 19770 19833 W 1p9.itu.mahaia: Verification of void com.google.android.gms.ads.measurement.DynamiteMeasurementManager.initialize(aly, com.google.android.gms.ads.measurement.e) took 117.106ms (751.45 bytecodes/s) (3608B approximate peak alloc)
+10-26 05:44:42.359 19770 19833 W 1p9.itu.mahaia: Verification of void com.google.android.gms.ads.internal.s.<init>() took 119.980ms (2083.68 bytecodes/s) (7840B approximate peak alloc)
+10-26 05:44:42.517 19770 19833 W 1p9.itu.mahaia: Verification of void com.google.android.gms.ads.internal.overlay.l.a(android.content.Context, com.google.android.gms.ads.internal.overlay.AdOverlayInfoParcel, boolean) took 102.129ms (1018.31 bytecodes/s) (4120B approximate peak alloc)
+10-26 05:44:42.761 17528 17626 D EGL_emulation: app_time_stats: avg=21.99ms min=3.99ms max=238.79ms count=34
+10-26 05:44:42.971 19770 19836 D FBAudienceNetwork: SDK dex loading time: 3686
+10-26 05:44:43.195 19770 19838 I TestRunner: finished: useAppContext(com.sarino.rojo.m1p9.itu.mahaiaw.ExampleInstrumentedTest)

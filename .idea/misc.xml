@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Source/app/src/main/res/layout/activity_exam_listen_guess.xml" value="0.20885416666666667" />
+        <entry key="..\:/Source/app/src/main/res/layout/activity_exam_question.xml" value="0.20885416666666667" />
+        <entry key="..\:/Source/app/src/main/res/layout/activity_full_screen.xml" value="0.20885416666666667" />
+        <entry key="..\:/Source/app/src/main/res/layout/activity_home.xml" value="0.20885416666666667" />
+        <entry key="..\:/Source/app/src/main/res/layout/activity_list_video.xml" value="0.20885416666666667" />
+        <entry key="..\:/Source/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Source/app/src/main/res/layout/activity_main.xml" value="0.20885416666666667" />
+        <entry key="..\:/Source/app/src/main/res/layout/activity_privacy_policy.xml" value="0.20885416666666667" />
+        <entry key="..\:/Source/app/src/main/res/layout/activity_setting.xml" value="0.20885416666666667" />
+        <entry key="..\:/Source/app/src/main/res/layout/activity_splash.xml" value="0.20885416666666667" />
+        <entry key="..\:/Source/app/src/main/res/layout/activity_sub.xml" value="0.20885416666666667" />
+        <entry key="..\:/Source/app/src/main/res/layout/activity_video_learning.xml" value="0.20885416666666667" />
+        <entry key="..\:/Source/app/src/main/res/layout/activity_video_play.xml" value="0.20885416666666667" />
+        <entry key="..\:/Source/app/src/main/res/layout/card_exam_answer.xml" value="0.20885416666666667" />
+        <entry key="..\:/Source/app/src/main/res/layout/card_exam_phonics.xml" value="0.20885416666666667" />
+        <entry key="..\:/Source/app/src/main/res/layout/card_item_related_list.xml" value="0.20885416666666667" />
+        <entry key="..\:/Source/app/src/main/res/layout/card_item_video_list.xml" value="0.20885416666666667" />
+        <entry key="..\:/Source/app/src/main/res/layout/card_list_home.xml" value="0.2708333333333333" />
+        <entry key="..\:/Source/app/src/main/res/layout/card_list_start.xml" value="0.20885416666666667" />
+        <entry key="..\:/Source/app/src/main/res/layout/card_sub_list_home.xml" value="0.20885416666666667" />
+        <entry key="..\:/Source/app/src/main/res/layout/card_video_learning.xml" value="0.20885416666666667" />
+        <entry key="..\:/Source/app/src/main/res/layout/item_notification_coll.xml" value="0.20885416666666667" />
+        <entry key="..\:/Source/app/src/main/res/layout/item_notification_expand.xml" value="0.20885416666666667" />
+        <entry key="..\:/Source/app/src/main/res/layout/viewpager_layout.xml" value="0.20885416666666667" />
+        <entry key="..\:/Source/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.208" />
+        <entry key="..\:/ecole/Itu/Android/projets/Mahaiaw/Mahaiaw/app/src/main/res/layout/activity_main.xml" value="0.1890625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.sarino.rojo.m1p9.itu.mahaiaw.ExampleInstrumentedTest" tests="1" failures="0" errors="0" skipped="0" time="2.429" timestamp="2022-10-26T05:44:48" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_2_API_31(AVD) - 12" />
+    <property name="flavor" value="" />
+    <property name="project" value="app" />
+  </properties>
+  <testcase name="useAppContext" classname="com.sarino.rojo.m1p9.itu.mahaiaw.ExampleInstrumentedTest" time="1.161" />
+</testsuite>

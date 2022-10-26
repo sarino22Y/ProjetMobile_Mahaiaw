@@ -1,0 +1,1053 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:2:1-67:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Ibonia\.gradle\caches\transforms-3\2aa6f1cfe49b11bd25b3ee02b064a64a\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Ibonia\.gradle\caches\transforms-3\7ad314798934685cd892777329b1d0bc\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\Ibonia\.gradle\caches\transforms-3\67ea89e93d18799d2c3b8a502b670f96\transformed\jetified-calligraphy-2.3.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\Ibonia\.gradle\caches\transforms-3\97bfcb2d4721747e946c476c22b1d80a\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\30c60a207ab6a4da23a880f3c82029a1\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Ibonia\.gradle\caches\transforms-3\77208dfeda67f958c6d12b41ed5c17ef\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\c24b10ca79c4f09b885dc746b1cf296b\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Ibonia\.gradle\caches\transforms-3\8e026265adea756cd49b7599a291cf37\transformed\jetified-glide-4.8.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-auth:20.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a8da708f0f55cc4bcf600f958e7cf52c\transformed\jetified-play-services-auth-20.0.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.daimajia.easing:library:2.0] C:\Users\Ibonia\.gradle\caches\transforms-3\2003a86f0accbc5e7d8dfe496f43c1c6\transformed\jetified-library-2.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.daimajia.androidanimations:library:2.3] C:\Users\Ibonia\.gradle\caches\transforms-3\34454dcf38dec2291acbb79c0dc9bf43\transformed\jetified-library-2.3\AndroidManifest.xml:2:1-12:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.19] C:\Users\Ibonia\.gradle\caches\transforms-3\0d0e3eb47c60b68feea65c5505f8a91d\transformed\jetified-android-gif-drawable-1.2.19\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Ibonia\.gradle\caches\transforms-3\0698aec68527de0748d333955ec47729\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:2:1-27:12
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\f563f9346e76229bf48fd22e2ef3f29c\transformed\jetified-firebase-analytics-21.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:17:1-61:12
+MERGED from [com.google.android.gms:play-services-ads:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\412d3cde5c8c65340c3c259382f969ff\transformed\jetified-play-services-ads-20.6.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\139ff3daed73739b28ebb16c796e1f9d\transformed\jetified-play-services-auth-api-phone-18.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\33549e32bc9c91fea794552e578d6b3e\transformed\jetified-play-services-auth-base-18.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\265f3cd100082bbb6f967f3ff11786dc\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1f6276aa4724185142eea580d6044ff0\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\bec4bee1550a07ed8f48f7ebdfbd4402\transformed\jetified-play-services-measurement-sdk-21.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-appset:16.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\9a41c8b5c614911742b41b49bcf40fed\transformed\jetified-play-services-appset-16.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\6ff02e1e9015e2402329ca14b1877418\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\07724b788a7c41b06ca3ab3ac0620492\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-datatransport:18.1.4] C:\Users\Ibonia\.gradle\caches\transforms-3\802908dbd90a64a8b1847957f12d2994\transformed\jetified-firebase-datatransport-18.1.4\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\24c1944a199995fba97dd72a28161038\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Ibonia\.gradle\caches\transforms-3\19a5cde955e1cb4c9713906b2a0d9150\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\0bb843442f909445672e606e33b22afb\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\2ba29b0590c856f5d9381594e670c3e1\transformed\jetified-firebase-installations-interop-17.0.1\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\1b3a8fcd02614535ff43f38598441a03\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\210e00141d335b69c9d96884879a93a5\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Ibonia\.gradle\caches\transforms-3\f65e5c941ca272668d1ab1b5d2c95152\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\9bc70a340ddda079d006b7406f64195b\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:17:1-67:12
+MERGED from [com.google.android.gms:play-services-ads-base:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\d51a66935f19c0580f9522889c97eb29\transformed\jetified-play-services-ads-base-20.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.ump:user-messaging-platform:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\7716aa33c759824ca18e175143c1b1fc\transformed\jetified-user-messaging-platform-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\781629d07b2b42e382ebc1c93730cea6\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1aa3429d22660122d9edd9d2bebbe75b\transformed\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\8e3d6adfd5942f43d0726ae16cec3b68\transformed\jetified-play-services-measurement-base-21.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\400eab9971f31228384a8733c9253e99\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Ibonia\.gradle\caches\transforms-3\271772af9624341277ee69aebca14610\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Ibonia\.gradle\caches\transforms-3\2a1530839006843ccbbbe59744e0de84\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\Ibonia\.gradle\caches\transforms-3\f88bb6917ce394601865842e0fb510f8\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\3414a3b534be462cf8cd7aa04c96c237\transformed\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\2df10f4708f1829c17432a64a0e71d3c\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\b1e0f171fec19ade8a1a513fe19a304f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\6909915de57c921c05879595facd2d23\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a643f39eb9d9710742b8e56bf0109177\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\75f56a8afc5eec8def344e86effe32b2\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\0e8f9fe80a63a316afa6bc4e26a39365\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\75605cc71bb5caa43ec500e2ff6edf4d\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a9ee3e9d49174c48fb3c9ad4c3041156\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\9ccb63d1e3255258cfdb2226248ad87c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\04118f435b632b7980665b6461eecf9b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\fb26742d97df60640d9868b864fecbe2\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Ibonia\.gradle\caches\transforms-3\f9eaf3b4250f98d686c29011febb900b\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ec4f3e202cd0ae505f8f0d68b7286474\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\bcd0b5553fd981881b34584901884e8b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\63325b71553a1fa78746883831626199\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\d71a819932d52508096bfd7dc0a90dbf\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\2df0f968b4417990b3f448b910482855\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\20f6b9ae2cb8620a601273b859f8d317\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Ibonia\.gradle\caches\transforms-3\8443d7aa22b55563229ca244a28aa2d7\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\6db18c3ab21d5a3219092f18192d66ff\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Ibonia\.gradle\caches\transforms-3\e712e57f47ebed2674ae140459b177bf\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Ibonia\.gradle\caches\transforms-3\e71f1ccdbbd525f8b51232da4d9f109e\transformed\jetified-gifdecoder-4.8.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\9c2b68d09ece26b1de4fcf2f29174833\transformed\jetified-transport-backend-cct-3.1.5\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\a01cbf2b04a9c0a519db45a6eec2f7fb\transformed\jetified-transport-runtime-3.1.5\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\0e7af4810d6ccdbba08c8d22f17694be\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\db0183f57242b08f6f7292bd21e2c07b\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\e3ef147a2b1189b7e0ceadebde860d25\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ibonia\.gradle\caches\transforms-3\0235514407a6b7cd5d1cb0820edcffe9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ibonia\.gradle\caches\transforms-3\9065292e6f878d952a2fbd4561313428\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\18c7d43aafa5a720b0bc121ded696aa6\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\b76b8503f3ac5a7f99fc32f1fefdd781\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\3b84e4b5c5d2829e961aa1d8bb1d0dac\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Ibonia\.gradle\caches\transforms-3\7b88f8287ce4e35343f495fbd0630bba\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\20c1e32f450f8cc11105f76116cbd0a1\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a824dcef4d907617ab74ff2bf2dae612\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Ibonia\.gradle\caches\transforms-3\1f05079ee59c4be333cd542999319b23\transformed\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\7e59b99738cc97b8a7f6761adb4a9ddd\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\61eed6e34364dccc7001d7bb89adb49e\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\47cd942dafcea55697397f8b57a9e04d\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\b427e0a7c35a2cc472bef4257cf9aab6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\d60a4cbde3166873d4a73164cbcd7c95\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1f00aaea3b444dada20393f3ddee65fe\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\41ace2d7c395cfbe00b72a67b956914f\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\31f8a3e49e786ad42a56ee20a2d88c37\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [pl.droidsonroids:relinker:1.3.1] C:\Users\Ibonia\.gradle\caches\transforms-3\e91f74e70ea891a00eeba9186a6bb850\transformed\jetified-relinker-1.3.1\AndroidManifest.xml:2:1-7:12
+INJECTED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:2:1-67:12
+	package
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:2:1-67:12
+		INJECTED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:2:1-67:12
+		INJECTED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from [com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Ibonia\.gradle\caches\transforms-3\0698aec68527de0748d333955ec47729\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:12:5-79
+MERGED from [com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Ibonia\.gradle\caches\transforms-3\0698aec68527de0748d333955ec47729\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\265f3cd100082bbb6f967f3ff11786dc\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\265f3cd100082bbb6f967f3ff11786dc\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1f6276aa4724185142eea580d6044ff0\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1f6276aa4724185142eea580d6044ff0\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\07724b788a7c41b06ca3ab3ac0620492\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\07724b788a7c41b06ca3ab3ac0620492\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\24c1944a199995fba97dd72a28161038\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\24c1944a199995fba97dd72a28161038\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\210e00141d335b69c9d96884879a93a5\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\210e00141d335b69c9d96884879a93a5\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1aa3429d22660122d9edd9d2bebbe75b\transformed\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1aa3429d22660122d9edd9d2bebbe75b\transformed\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\9c2b68d09ece26b1de4fcf2f29174833\transformed\jetified-transport-backend-cct-3.1.5\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\9c2b68d09ece26b1de4fcf2f29174833\transformed\jetified-transport-backend-cct-3.1.5\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\a01cbf2b04a9c0a519db45a6eec2f7fb\transformed\jetified-transport-runtime-3.1.5\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\a01cbf2b04a9c0a519db45a6eec2f7fb\transformed\jetified-transport-runtime-3.1.5\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Ibonia\.gradle\caches\transforms-3\0698aec68527de0748d333955ec47729\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:11:5-67
+MERGED from [com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Ibonia\.gradle\caches\transforms-3\0698aec68527de0748d333955ec47729\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\265f3cd100082bbb6f967f3ff11786dc\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\265f3cd100082bbb6f967f3ff11786dc\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1f6276aa4724185142eea580d6044ff0\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1f6276aa4724185142eea580d6044ff0\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\07724b788a7c41b06ca3ab3ac0620492\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\07724b788a7c41b06ca3ab3ac0620492\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\24c1944a199995fba97dd72a28161038\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\24c1944a199995fba97dd72a28161038\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\210e00141d335b69c9d96884879a93a5\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\210e00141d335b69c9d96884879a93a5\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1aa3429d22660122d9edd9d2bebbe75b\transformed\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1aa3429d22660122d9edd9d2bebbe75b\transformed\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\9c2b68d09ece26b1de4fcf2f29174833\transformed\jetified-transport-backend-cct-3.1.5\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\9c2b68d09ece26b1de4fcf2f29174833\transformed\jetified-transport-backend-cct-3.1.5\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:6:22-64
+queries
+ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:8:5-12:15
+MERGED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:28:5-44:15
+MERGED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:28:5-44:15
+intent#action:name:com.google.android.youtube.api.service.START
+ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:9:9-11:18
+action#com.google.android.youtube.api.service.START
+ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:10:13-83
+	android:name
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:10:21-80
+application
+ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:15:5-65:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Ibonia\.gradle\caches\transforms-3\2aa6f1cfe49b11bd25b3ee02b064a64a\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Ibonia\.gradle\caches\transforms-3\2aa6f1cfe49b11bd25b3ee02b064a64a\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Ibonia\.gradle\caches\transforms-3\7ad314798934685cd892777329b1d0bc\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Ibonia\.gradle\caches\transforms-3\7ad314798934685cd892777329b1d0bc\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\Ibonia\.gradle\caches\transforms-3\67ea89e93d18799d2c3b8a502b670f96\transformed\jetified-calligraphy-2.3.0\AndroidManifest.xml:11:5-20
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\Ibonia\.gradle\caches\transforms-3\67ea89e93d18799d2c3b8a502b670f96\transformed\jetified-calligraphy-2.3.0\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Ibonia\.gradle\caches\transforms-3\8e026265adea756cd49b7599a291cf37\transformed\jetified-glide-4.8.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Ibonia\.gradle\caches\transforms-3\8e026265adea756cd49b7599a291cf37\transformed\jetified-glide-4.8.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-auth:20.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a8da708f0f55cc4bcf600f958e7cf52c\transformed\jetified-play-services-auth-20.0.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a8da708f0f55cc4bcf600f958e7cf52c\transformed\jetified-play-services-auth-20.0.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Ibonia\.gradle\caches\transforms-3\0698aec68527de0748d333955ec47729\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:14:5-25:19
+MERGED from [com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Ibonia\.gradle\caches\transforms-3\0698aec68527de0748d333955ec47729\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:14:5-25:19
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\f563f9346e76229bf48fd22e2ef3f29c\transformed\jetified-firebase-analytics-21.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\f563f9346e76229bf48fd22e2ef3f29c\transformed\jetified-firebase-analytics-21.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\265f3cd100082bbb6f967f3ff11786dc\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\265f3cd100082bbb6f967f3ff11786dc\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1f6276aa4724185142eea580d6044ff0\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1f6276aa4724185142eea580d6044ff0\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\bec4bee1550a07ed8f48f7ebdfbd4402\transformed\jetified-play-services-measurement-sdk-21.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\bec4bee1550a07ed8f48f7ebdfbd4402\transformed\jetified-play-services-measurement-sdk-21.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-appset:16.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\9a41c8b5c614911742b41b49bcf40fed\transformed\jetified-play-services-appset-16.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-appset:16.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\9a41c8b5c614911742b41b49bcf40fed\transformed\jetified-play-services-appset-16.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\6ff02e1e9015e2402329ca14b1877418\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\6ff02e1e9015e2402329ca14b1877418\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.4] C:\Users\Ibonia\.gradle\caches\transforms-3\802908dbd90a64a8b1847957f12d2994\transformed\jetified-firebase-datatransport-18.1.4\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.4] C:\Users\Ibonia\.gradle\caches\transforms-3\802908dbd90a64a8b1847957f12d2994\transformed\jetified-firebase-datatransport-18.1.4\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\24c1944a199995fba97dd72a28161038\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\24c1944a199995fba97dd72a28161038\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Ibonia\.gradle\caches\transforms-3\19a5cde955e1cb4c9713906b2a0d9150\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Ibonia\.gradle\caches\transforms-3\19a5cde955e1cb4c9713906b2a0d9150\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\0bb843442f909445672e606e33b22afb\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\0bb843442f909445672e606e33b22afb\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\1b3a8fcd02614535ff43f38598441a03\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\1b3a8fcd02614535ff43f38598441a03\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\210e00141d335b69c9d96884879a93a5\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\210e00141d335b69c9d96884879a93a5\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Ibonia\.gradle\caches\transforms-3\f65e5c941ca272668d1ab1b5d2c95152\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Ibonia\.gradle\caches\transforms-3\f65e5c941ca272668d1ab1b5d2c95152\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\9bc70a340ddda079d006b7406f64195b\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\9bc70a340ddda079d006b7406f64195b\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:46:5-65:19
+MERGED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:46:5-65:19
+MERGED from [com.google.android.gms:play-services-ads-base:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\d51a66935f19c0580f9522889c97eb29\transformed\jetified-play-services-ads-base-20.6.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\d51a66935f19c0580f9522889c97eb29\transformed\jetified-play-services-ads-base-20.6.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\781629d07b2b42e382ebc1c93730cea6\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\781629d07b2b42e382ebc1c93730cea6\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\8e3d6adfd5942f43d0726ae16cec3b68\transformed\jetified-play-services-measurement-base-21.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\8e3d6adfd5942f43d0726ae16cec3b68\transformed\jetified-play-services-measurement-base-21.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\400eab9971f31228384a8733c9253e99\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\400eab9971f31228384a8733c9253e99\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a643f39eb9d9710742b8e56bf0109177\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a643f39eb9d9710742b8e56bf0109177\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\2df0f968b4417990b3f448b910482855\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\2df0f968b4417990b3f448b910482855\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Ibonia\.gradle\caches\transforms-3\e71f1ccdbbd525f8b51232da4d9f109e\transformed\jetified-gifdecoder-4.8.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Ibonia\.gradle\caches\transforms-3\e71f1ccdbbd525f8b51232da4d9f109e\transformed\jetified-gifdecoder-4.8.0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\9c2b68d09ece26b1de4fcf2f29174833\transformed\jetified-transport-backend-cct-3.1.5\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\9c2b68d09ece26b1de4fcf2f29174833\transformed\jetified-transport-backend-cct-3.1.5\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\a01cbf2b04a9c0a519db45a6eec2f7fb\transformed\jetified-transport-runtime-3.1.5\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\a01cbf2b04a9c0a519db45a6eec2f7fb\transformed\jetified-transport-runtime-3.1.5\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ibonia\.gradle\caches\transforms-3\0235514407a6b7cd5d1cb0820edcffe9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ibonia\.gradle\caches\transforms-3\0235514407a6b7cd5d1cb0820edcffe9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ibonia\.gradle\caches\transforms-3\9065292e6f878d952a2fbd4561313428\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ibonia\.gradle\caches\transforms-3\9065292e6f878d952a2fbd4561313428\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\18c7d43aafa5a720b0bc121ded696aa6\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\18c7d43aafa5a720b0bc121ded696aa6\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Ibonia\.gradle\caches\transforms-3\1f05079ee59c4be333cd542999319b23\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Ibonia\.gradle\caches\transforms-3\1f05079ee59c4be333cd542999319b23\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+	android:requestLegacyExternalStorage
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:24:9-52
+	android:roundIcon
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:25:9-54
+	android:largeHeap
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:23:9-33
+	android:icon
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:21:9-43
+	android:fullBackupOnly
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:19:9-39
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\2df0f968b4417990b3f448b910482855\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:22:9-41
+	android:hardwareAccelerated
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:20:9-43
+	android:fullBackupContent
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:18:9-42
+	android:allowBackup
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:17:9-36
+	android:theme
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:27:9-40
+	android:usesCleartextTraffic
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:28:9-44
+	android:name
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:16:9-81
+activity#com.sarino.rojo.m1p9.itu.mahaiaw.activity.SplashActivity
+ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:30:9-40:20
+	android:screenOrientation
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:32:13-49
+	android:exported
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:33:13-36
+	android:name
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:31:13-84
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:34:13-39:29
+action#android.intent.action.MAIN
+ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:35:25-66
+action#android.intent.action.VIEW
+ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:38:27-74
+activity#com.sarino.rojo.m1p9.itu.mahaiaw.activity.Menu
+ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:42:9-44:52
+	android:screenOrientation
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:43:13-74
+activity#com.sarino.rojo.m1p9.itu.mahaiaw.activity.MainActivity
+ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:45:9-47:52
+	android:screenOrientation
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:47:13-49
+	android:name
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:46:13-82
+activity#com.sarino.rojo.m1p9.itu.mahaiaw.activity.SubActivity
+ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:48:9-50:52
+	android:screenOrientation
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:50:13-49
+	android:name
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:49:13-81
+activity#com.sarino.rojo.m1p9.itu.mahaiaw.activity.FullScreenActivity
+ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:51:9-53:52
+	android:screenOrientation
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:53:13-49
+	android:name
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:52:13-88
+activity#com.sarino.rojo.m1p9.itu.mahaiaw.activity.SettingActivity
+ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:54:9-56:52
+	android:screenOrientation
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:56:13-49
+	android:name
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:55:13-85
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:58:9-60:60
+	android:value
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:60:13-58
+	android:name
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:59:13-69
+meta-data#com.google.android.gms.version
+ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:62:9-122
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\400eab9971f31228384a8733c9253e99\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\400eab9971f31228384a8733c9253e99\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:62:66-119
+	android:name
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml:62:20-65
+uses-sdk
+INJECTED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml
+INJECTED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Ibonia\.gradle\caches\transforms-3\2aa6f1cfe49b11bd25b3ee02b064a64a\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Ibonia\.gradle\caches\transforms-3\2aa6f1cfe49b11bd25b3ee02b064a64a\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Ibonia\.gradle\caches\transforms-3\7ad314798934685cd892777329b1d0bc\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Ibonia\.gradle\caches\transforms-3\7ad314798934685cd892777329b1d0bc\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\Ibonia\.gradle\caches\transforms-3\67ea89e93d18799d2c3b8a502b670f96\transformed\jetified-calligraphy-2.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\Ibonia\.gradle\caches\transforms-3\67ea89e93d18799d2c3b8a502b670f96\transformed\jetified-calligraphy-2.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\Ibonia\.gradle\caches\transforms-3\97bfcb2d4721747e946c476c22b1d80a\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\Ibonia\.gradle\caches\transforms-3\97bfcb2d4721747e946c476c22b1d80a\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\30c60a207ab6a4da23a880f3c82029a1\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\30c60a207ab6a4da23a880f3c82029a1\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Ibonia\.gradle\caches\transforms-3\77208dfeda67f958c6d12b41ed5c17ef\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Ibonia\.gradle\caches\transforms-3\77208dfeda67f958c6d12b41ed5c17ef\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\c24b10ca79c4f09b885dc746b1cf296b\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\c24b10ca79c4f09b885dc746b1cf296b\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Ibonia\.gradle\caches\transforms-3\8e026265adea756cd49b7599a291cf37\transformed\jetified-glide-4.8.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Ibonia\.gradle\caches\transforms-3\8e026265adea756cd49b7599a291cf37\transformed\jetified-glide-4.8.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-auth:20.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a8da708f0f55cc4bcf600f958e7cf52c\transformed\jetified-play-services-auth-20.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a8da708f0f55cc4bcf600f958e7cf52c\transformed\jetified-play-services-auth-20.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.daimajia.easing:library:2.0] C:\Users\Ibonia\.gradle\caches\transforms-3\2003a86f0accbc5e7d8dfe496f43c1c6\transformed\jetified-library-2.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.easing:library:2.0] C:\Users\Ibonia\.gradle\caches\transforms-3\2003a86f0accbc5e7d8dfe496f43c1c6\transformed\jetified-library-2.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:2.3] C:\Users\Ibonia\.gradle\caches\transforms-3\34454dcf38dec2291acbb79c0dc9bf43\transformed\jetified-library-2.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:2.3] C:\Users\Ibonia\.gradle\caches\transforms-3\34454dcf38dec2291acbb79c0dc9bf43\transformed\jetified-library-2.3\AndroidManifest.xml:8:5-10:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.19] C:\Users\Ibonia\.gradle\caches\transforms-3\0d0e3eb47c60b68feea65c5505f8a91d\transformed\jetified-android-gif-drawable-1.2.19\AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.19] C:\Users\Ibonia\.gradle\caches\transforms-3\0d0e3eb47c60b68feea65c5505f8a91d\transformed\jetified-android-gif-drawable-1.2.19\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Ibonia\.gradle\caches\transforms-3\0698aec68527de0748d333955ec47729\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Ibonia\.gradle\caches\transforms-3\0698aec68527de0748d333955ec47729\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\f563f9346e76229bf48fd22e2ef3f29c\transformed\jetified-firebase-analytics-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\f563f9346e76229bf48fd22e2ef3f29c\transformed\jetified-firebase-analytics-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.gms:play-services-ads:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\412d3cde5c8c65340c3c259382f969ff\transformed\jetified-play-services-ads-20.6.0\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\412d3cde5c8c65340c3c259382f969ff\transformed\jetified-play-services-ads-20.6.0\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\139ff3daed73739b28ebb16c796e1f9d\transformed\jetified-play-services-auth-api-phone-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\139ff3daed73739b28ebb16c796e1f9d\transformed\jetified-play-services-auth-api-phone-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\33549e32bc9c91fea794552e578d6b3e\transformed\jetified-play-services-auth-base-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\33549e32bc9c91fea794552e578d6b3e\transformed\jetified-play-services-auth-base-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\265f3cd100082bbb6f967f3ff11786dc\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\265f3cd100082bbb6f967f3ff11786dc\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1f6276aa4724185142eea580d6044ff0\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1f6276aa4724185142eea580d6044ff0\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\bec4bee1550a07ed8f48f7ebdfbd4402\transformed\jetified-play-services-measurement-sdk-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\bec4bee1550a07ed8f48f7ebdfbd4402\transformed\jetified-play-services-measurement-sdk-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appset:16.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\9a41c8b5c614911742b41b49bcf40fed\transformed\jetified-play-services-appset-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-appset:16.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\9a41c8b5c614911742b41b49bcf40fed\transformed\jetified-play-services-appset-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\6ff02e1e9015e2402329ca14b1877418\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\6ff02e1e9015e2402329ca14b1877418\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\07724b788a7c41b06ca3ab3ac0620492\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\07724b788a7c41b06ca3ab3ac0620492\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.1.4] C:\Users\Ibonia\.gradle\caches\transforms-3\802908dbd90a64a8b1847957f12d2994\transformed\jetified-firebase-datatransport-18.1.4\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.4] C:\Users\Ibonia\.gradle\caches\transforms-3\802908dbd90a64a8b1847957f12d2994\transformed\jetified-firebase-datatransport-18.1.4\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\24c1944a199995fba97dd72a28161038\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\24c1944a199995fba97dd72a28161038\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Ibonia\.gradle\caches\transforms-3\19a5cde955e1cb4c9713906b2a0d9150\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Ibonia\.gradle\caches\transforms-3\19a5cde955e1cb4c9713906b2a0d9150\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\0bb843442f909445672e606e33b22afb\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\0bb843442f909445672e606e33b22afb\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\2ba29b0590c856f5d9381594e670c3e1\transformed\jetified-firebase-installations-interop-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\2ba29b0590c856f5d9381594e670c3e1\transformed\jetified-firebase-installations-interop-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\1b3a8fcd02614535ff43f38598441a03\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\1b3a8fcd02614535ff43f38598441a03\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\210e00141d335b69c9d96884879a93a5\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\210e00141d335b69c9d96884879a93a5\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Ibonia\.gradle\caches\transforms-3\f65e5c941ca272668d1ab1b5d2c95152\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Ibonia\.gradle\caches\transforms-3\f65e5c941ca272668d1ab1b5d2c95152\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\9bc70a340ddda079d006b7406f64195b\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\9bc70a340ddda079d006b7406f64195b\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\d51a66935f19c0580f9522889c97eb29\transformed\jetified-play-services-ads-base-20.6.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\d51a66935f19c0580f9522889c97eb29\transformed\jetified-play-services-ads-base-20.6.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\7716aa33c759824ca18e175143c1b1fc\transformed\jetified-user-messaging-platform-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\7716aa33c759824ca18e175143c1b1fc\transformed\jetified-user-messaging-platform-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\781629d07b2b42e382ebc1c93730cea6\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\781629d07b2b42e382ebc1c93730cea6\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1aa3429d22660122d9edd9d2bebbe75b\transformed\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1aa3429d22660122d9edd9d2bebbe75b\transformed\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\8e3d6adfd5942f43d0726ae16cec3b68\transformed\jetified-play-services-measurement-base-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\8e3d6adfd5942f43d0726ae16cec3b68\transformed\jetified-play-services-measurement-base-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\400eab9971f31228384a8733c9253e99\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\400eab9971f31228384a8733c9253e99\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Ibonia\.gradle\caches\transforms-3\271772af9624341277ee69aebca14610\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Ibonia\.gradle\caches\transforms-3\271772af9624341277ee69aebca14610\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Ibonia\.gradle\caches\transforms-3\2a1530839006843ccbbbe59744e0de84\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Ibonia\.gradle\caches\transforms-3\2a1530839006843ccbbbe59744e0de84\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\Ibonia\.gradle\caches\transforms-3\f88bb6917ce394601865842e0fb510f8\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\Ibonia\.gradle\caches\transforms-3\f88bb6917ce394601865842e0fb510f8\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\3414a3b534be462cf8cd7aa04c96c237\transformed\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\3414a3b534be462cf8cd7aa04c96c237\transformed\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\2df10f4708f1829c17432a64a0e71d3c\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\2df10f4708f1829c17432a64a0e71d3c\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\b1e0f171fec19ade8a1a513fe19a304f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\b1e0f171fec19ade8a1a513fe19a304f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\6909915de57c921c05879595facd2d23\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\6909915de57c921c05879595facd2d23\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a643f39eb9d9710742b8e56bf0109177\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a643f39eb9d9710742b8e56bf0109177\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\75f56a8afc5eec8def344e86effe32b2\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\75f56a8afc5eec8def344e86effe32b2\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\0e8f9fe80a63a316afa6bc4e26a39365\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\0e8f9fe80a63a316afa6bc4e26a39365\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\75605cc71bb5caa43ec500e2ff6edf4d\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\75605cc71bb5caa43ec500e2ff6edf4d\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a9ee3e9d49174c48fb3c9ad4c3041156\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a9ee3e9d49174c48fb3c9ad4c3041156\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\9ccb63d1e3255258cfdb2226248ad87c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\9ccb63d1e3255258cfdb2226248ad87c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\04118f435b632b7980665b6461eecf9b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\04118f435b632b7980665b6461eecf9b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\fb26742d97df60640d9868b864fecbe2\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\fb26742d97df60640d9868b864fecbe2\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Ibonia\.gradle\caches\transforms-3\f9eaf3b4250f98d686c29011febb900b\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Ibonia\.gradle\caches\transforms-3\f9eaf3b4250f98d686c29011febb900b\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ec4f3e202cd0ae505f8f0d68b7286474\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ec4f3e202cd0ae505f8f0d68b7286474\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\bcd0b5553fd981881b34584901884e8b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\bcd0b5553fd981881b34584901884e8b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\63325b71553a1fa78746883831626199\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\63325b71553a1fa78746883831626199\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\d71a819932d52508096bfd7dc0a90dbf\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\d71a819932d52508096bfd7dc0a90dbf\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\2df0f968b4417990b3f448b910482855\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\2df0f968b4417990b3f448b910482855\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\20f6b9ae2cb8620a601273b859f8d317\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\20f6b9ae2cb8620a601273b859f8d317\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Ibonia\.gradle\caches\transforms-3\8443d7aa22b55563229ca244a28aa2d7\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Ibonia\.gradle\caches\transforms-3\8443d7aa22b55563229ca244a28aa2d7\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\6db18c3ab21d5a3219092f18192d66ff\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\6db18c3ab21d5a3219092f18192d66ff\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Ibonia\.gradle\caches\transforms-3\e712e57f47ebed2674ae140459b177bf\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Ibonia\.gradle\caches\transforms-3\e712e57f47ebed2674ae140459b177bf\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Ibonia\.gradle\caches\transforms-3\e71f1ccdbbd525f8b51232da4d9f109e\transformed\jetified-gifdecoder-4.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Ibonia\.gradle\caches\transforms-3\e71f1ccdbbd525f8b51232da4d9f109e\transformed\jetified-gifdecoder-4.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\9c2b68d09ece26b1de4fcf2f29174833\transformed\jetified-transport-backend-cct-3.1.5\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\9c2b68d09ece26b1de4fcf2f29174833\transformed\jetified-transport-backend-cct-3.1.5\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\a01cbf2b04a9c0a519db45a6eec2f7fb\transformed\jetified-transport-runtime-3.1.5\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\a01cbf2b04a9c0a519db45a6eec2f7fb\transformed\jetified-transport-runtime-3.1.5\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\0e7af4810d6ccdbba08c8d22f17694be\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\0e7af4810d6ccdbba08c8d22f17694be\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\db0183f57242b08f6f7292bd21e2c07b\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\db0183f57242b08f6f7292bd21e2c07b\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\e3ef147a2b1189b7e0ceadebde860d25\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\e3ef147a2b1189b7e0ceadebde860d25\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ibonia\.gradle\caches\transforms-3\0235514407a6b7cd5d1cb0820edcffe9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ibonia\.gradle\caches\transforms-3\0235514407a6b7cd5d1cb0820edcffe9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ibonia\.gradle\caches\transforms-3\9065292e6f878d952a2fbd4561313428\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ibonia\.gradle\caches\transforms-3\9065292e6f878d952a2fbd4561313428\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\18c7d43aafa5a720b0bc121ded696aa6\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\18c7d43aafa5a720b0bc121ded696aa6\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\b76b8503f3ac5a7f99fc32f1fefdd781\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\b76b8503f3ac5a7f99fc32f1fefdd781\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\3b84e4b5c5d2829e961aa1d8bb1d0dac\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\3b84e4b5c5d2829e961aa1d8bb1d0dac\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Ibonia\.gradle\caches\transforms-3\7b88f8287ce4e35343f495fbd0630bba\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Ibonia\.gradle\caches\transforms-3\7b88f8287ce4e35343f495fbd0630bba\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\20c1e32f450f8cc11105f76116cbd0a1\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\20c1e32f450f8cc11105f76116cbd0a1\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a824dcef4d907617ab74ff2bf2dae612\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a824dcef4d907617ab74ff2bf2dae612\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Ibonia\.gradle\caches\transforms-3\1f05079ee59c4be333cd542999319b23\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Ibonia\.gradle\caches\transforms-3\1f05079ee59c4be333cd542999319b23\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\7e59b99738cc97b8a7f6761adb4a9ddd\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\7e59b99738cc97b8a7f6761adb4a9ddd\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\61eed6e34364dccc7001d7bb89adb49e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\61eed6e34364dccc7001d7bb89adb49e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\47cd942dafcea55697397f8b57a9e04d\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\47cd942dafcea55697397f8b57a9e04d\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\b427e0a7c35a2cc472bef4257cf9aab6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\b427e0a7c35a2cc472bef4257cf9aab6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\d60a4cbde3166873d4a73164cbcd7c95\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\d60a4cbde3166873d4a73164cbcd7c95\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1f00aaea3b444dada20393f3ddee65fe\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1f00aaea3b444dada20393f3ddee65fe\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\41ace2d7c395cfbe00b72a67b956914f\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\41ace2d7c395cfbe00b72a67b956914f\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\31f8a3e49e786ad42a56ee20a2d88c37\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Ibonia\.gradle\caches\transforms-3\31f8a3e49e786ad42a56ee20a2d88c37\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [pl.droidsonroids:relinker:1.3.1] C:\Users\Ibonia\.gradle\caches\transforms-3\e91f74e70ea891a00eeba9186a6bb850\transformed\jetified-relinker-1.3.1\AndroidManifest.xml:5:5-43
+MERGED from [pl.droidsonroids:relinker:1.3.1] C:\Users\Ibonia\.gradle\caches\transforms-3\e91f74e70ea891a00eeba9186a6bb850\transformed\jetified-relinker-1.3.1\AndroidManifest.xml:5:5-43
+INJECTED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml
+INJECTED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\412d3cde5c8c65340c3c259382f969ff\transformed\jetified-play-services-ads-20.6.0\AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml
+		ADDED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ecole\Itu\Android\projets\Mahaiaw\Mahaiaw\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a8da708f0f55cc4bcf600f958e7cf52c\transformed\jetified-play-services-auth-20.0.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a8da708f0f55cc4bcf600f958e7cf52c\transformed\jetified-play-services-auth-20.0.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a8da708f0f55cc4bcf600f958e7cf52c\transformed\jetified-play-services-auth-20.0.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a8da708f0f55cc4bcf600f958e7cf52c\transformed\jetified-play-services-auth-20.0.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a8da708f0f55cc4bcf600f958e7cf52c\transformed\jetified-play-services-auth-20.0.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a8da708f0f55cc4bcf600f958e7cf52c\transformed\jetified-play-services-auth-20.0.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a8da708f0f55cc4bcf600f958e7cf52c\transformed\jetified-play-services-auth-20.0.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a8da708f0f55cc4bcf600f958e7cf52c\transformed\jetified-play-services-auth-20.0.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a8da708f0f55cc4bcf600f958e7cf52c\transformed\jetified-play-services-auth-20.0.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a8da708f0f55cc4bcf600f958e7cf52c\transformed\jetified-play-services-auth-20.0.0\AndroidManifest.xml:34:13-89
+activity#com.facebook.ads.AudienceNetworkActivity
+ADDED from [com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Ibonia\.gradle\caches\transforms-3\0698aec68527de0748d333955ec47729\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:15:9-19:75
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Ibonia\.gradle\caches\transforms-3\0698aec68527de0748d333955ec47729\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:18:13-37
+	android:configChanges
+		ADDED from [com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Ibonia\.gradle\caches\transforms-3\0698aec68527de0748d333955ec47729\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:17:13-74
+	android:theme
+		ADDED from [com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Ibonia\.gradle\caches\transforms-3\0698aec68527de0748d333955ec47729\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:19:13-72
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Ibonia\.gradle\caches\transforms-3\0698aec68527de0748d333955ec47729\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:16:13-68
+provider#com.facebook.ads.AudienceNetworkContentProvider
+ADDED from [com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Ibonia\.gradle\caches\transforms-3\0698aec68527de0748d333955ec47729\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:21:9-24:40
+	android:authorities
+		ADDED from [com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Ibonia\.gradle\caches\transforms-3\0698aec68527de0748d333955ec47729\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:23:13-82
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Ibonia\.gradle\caches\transforms-3\0698aec68527de0748d333955ec47729\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Ibonia\.gradle\caches\transforms-3\0698aec68527de0748d333955ec47729\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:22:13-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:26:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\265f3cd100082bbb6f967f3ff11786dc\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\265f3cd100082bbb6f967f3ff11786dc\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1f6276aa4724185142eea580d6044ff0\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1f6276aa4724185142eea580d6044ff0\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\07724b788a7c41b06ca3ab3ac0620492\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\07724b788a7c41b06ca3ab3ac0620492\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\210e00141d335b69c9d96884879a93a5\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\210e00141d335b69c9d96884879a93a5\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1aa3429d22660122d9edd9d2bebbe75b\transformed\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1aa3429d22660122d9edd9d2bebbe75b\transformed\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:26:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\07724b788a7c41b06ca3ab3ac0620492\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\07724b788a7c41b06ca3ab3ac0620492\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:28:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:31:9-38:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:33:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:34:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:32:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:35:13-37:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:36:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:36:25-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:44:9-51:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:47:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:46:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:45:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:48:13-50:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:48:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:49:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:49:25-75
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1f6276aa4724185142eea580d6044ff0\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1f6276aa4724185142eea580d6044ff0\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.4] C:\Users\Ibonia\.gradle\caches\transforms-3\802908dbd90a64a8b1847957f12d2994\transformed\jetified-firebase-datatransport-18.1.4\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.4] C:\Users\Ibonia\.gradle\caches\transforms-3\802908dbd90a64a8b1847957f12d2994\transformed\jetified-firebase-datatransport-18.1.4\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\24c1944a199995fba97dd72a28161038\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\24c1944a199995fba97dd72a28161038\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Ibonia\.gradle\caches\transforms-3\19a5cde955e1cb4c9713906b2a0d9150\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Ibonia\.gradle\caches\transforms-3\19a5cde955e1cb4c9713906b2a0d9150\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:54:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Ibonia\.gradle\caches\transforms-3\19a5cde955e1cb4c9713906b2a0d9150\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Ibonia\.gradle\caches\transforms-3\19a5cde955e1cb4c9713906b2a0d9150\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:53:13-84
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:55:13-57:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:57:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.5] C:\Users\Ibonia\.gradle\caches\transforms-3\235f15bda856a3eefa4b54857ffe1ca3\transformed\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:56:17-119
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\265f3cd100082bbb6f967f3ff11786dc\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\210e00141d335b69c9d96884879a93a5\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\210e00141d335b69c9d96884879a93a5\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\265f3cd100082bbb6f967f3ff11786dc\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\265f3cd100082bbb6f967f3ff11786dc\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\265f3cd100082bbb6f967f3ff11786dc\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\265f3cd100082bbb6f967f3ff11786dc\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\265f3cd100082bbb6f967f3ff11786dc\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\265f3cd100082bbb6f967f3ff11786dc\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\265f3cd100082bbb6f967f3ff11786dc\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\265f3cd100082bbb6f967f3ff11786dc\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\265f3cd100082bbb6f967f3ff11786dc\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\265f3cd100082bbb6f967f3ff11786dc\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\265f3cd100082bbb6f967f3ff11786dc\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\265f3cd100082bbb6f967f3ff11786dc\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\265f3cd100082bbb6f967f3ff11786dc\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\265f3cd100082bbb6f967f3ff11786dc\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:40:13-87
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1f6276aa4724185142eea580d6044ff0\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\210e00141d335b69c9d96884879a93a5\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\210e00141d335b69c9d96884879a93a5\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\781629d07b2b42e382ebc1c93730cea6\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\781629d07b2b42e382ebc1c93730cea6\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1aa3429d22660122d9edd9d2bebbe75b\transformed\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1aa3429d22660122d9edd9d2bebbe75b\transformed\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1f6276aa4724185142eea580d6044ff0\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1f6276aa4724185142eea580d6044ff0\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1f6276aa4724185142eea580d6044ff0\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\1f6276aa4724185142eea580d6044ff0\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:32:17-139
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\6ff02e1e9015e2402329ca14b1877418\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\6ff02e1e9015e2402329ca14b1877418\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\6ff02e1e9015e2402329ca14b1877418\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\6ff02e1e9015e2402329ca14b1877418\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.1.4] C:\Users\Ibonia\.gradle\caches\transforms-3\802908dbd90a64a8b1847957f12d2994\transformed\jetified-firebase-datatransport-18.1.4\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.4] C:\Users\Ibonia\.gradle\caches\transforms-3\802908dbd90a64a8b1847957f12d2994\transformed\jetified-firebase-datatransport-18.1.4\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.4] C:\Users\Ibonia\.gradle\caches\transforms-3\802908dbd90a64a8b1847957f12d2994\transformed\jetified-firebase-datatransport-18.1.4\AndroidManifest.xml:29:17-115
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\24c1944a199995fba97dd72a28161038\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\24c1944a199995fba97dd72a28161038\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Ibonia\.gradle\caches\transforms-3\24c1944a199995fba97dd72a28161038\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Ibonia\.gradle\caches\transforms-3\19a5cde955e1cb4c9713906b2a0d9150\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Ibonia\.gradle\caches\transforms-3\19a5cde955e1cb4c9713906b2a0d9150\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Ibonia\.gradle\caches\transforms-3\19a5cde955e1cb4c9713906b2a0d9150\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Ibonia\.gradle\caches\transforms-3\19a5cde955e1cb4c9713906b2a0d9150\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Ibonia\.gradle\caches\transforms-3\19a5cde955e1cb4c9713906b2a0d9150\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Ibonia\.gradle\caches\transforms-3\19a5cde955e1cb4c9713906b2a0d9150\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:27:13-77
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:31:9-37:18
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:34:13-74
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:34:23-71
+data
+ADDED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:36:13-44
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:36:19-41
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:40:9-42:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:41:13-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:41:21-87
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:49:9-53:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:52:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:51:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:53:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:50:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:55:9-59:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:57:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:58:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:59:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:56:13-76
+service#com.google.android.gms.ads.AdService
+ADDED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:61:9-64:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:63:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:64:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Ibonia\.gradle\caches\transforms-3\ee2bec4ad3c6e433ad779329b995ad56\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:62:13-64
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a643f39eb9d9710742b8e56bf0109177\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ibonia\.gradle\caches\transforms-3\9065292e6f878d952a2fbd4561313428\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ibonia\.gradle\caches\transforms-3\9065292e6f878d952a2fbd4561313428\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\18c7d43aafa5a720b0bc121ded696aa6\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\18c7d43aafa5a720b0bc121ded696aa6\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a643f39eb9d9710742b8e56bf0109177\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a643f39eb9d9710742b8e56bf0109177\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a643f39eb9d9710742b8e56bf0109177\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a643f39eb9d9710742b8e56bf0109177\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a643f39eb9d9710742b8e56bf0109177\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a643f39eb9d9710742b8e56bf0109177\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ibonia\.gradle\caches\transforms-3\a643f39eb9d9710742b8e56bf0109177\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:27:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:28:22-74
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:36:13-38:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:37:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Ibonia\.gradle\caches\transforms-3\68d84b2a423d876ebc1ab8090f806771\transformed\work-runtime-2.7.0\AndroidManifest.xml:140:25-85
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\9c2b68d09ece26b1de4fcf2f29174833\transformed\jetified-transport-backend-cct-3.1.5\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\a01cbf2b04a9c0a519db45a6eec2f7fb\transformed\jetified-transport-runtime-3.1.5\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\a01cbf2b04a9c0a519db45a6eec2f7fb\transformed\jetified-transport-runtime-3.1.5\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\9c2b68d09ece26b1de4fcf2f29174833\transformed\jetified-transport-backend-cct-3.1.5\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\9c2b68d09ece26b1de4fcf2f29174833\transformed\jetified-transport-backend-cct-3.1.5\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\9c2b68d09ece26b1de4fcf2f29174833\transformed\jetified-transport-backend-cct-3.1.5\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\9c2b68d09ece26b1de4fcf2f29174833\transformed\jetified-transport-backend-cct-3.1.5\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\9c2b68d09ece26b1de4fcf2f29174833\transformed\jetified-transport-backend-cct-3.1.5\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\a01cbf2b04a9c0a519db45a6eec2f7fb\transformed\jetified-transport-runtime-3.1.5\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\a01cbf2b04a9c0a519db45a6eec2f7fb\transformed\jetified-transport-runtime-3.1.5\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\a01cbf2b04a9c0a519db45a6eec2f7fb\transformed\jetified-transport-runtime-3.1.5\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\a01cbf2b04a9c0a519db45a6eec2f7fb\transformed\jetified-transport-runtime-3.1.5\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\a01cbf2b04a9c0a519db45a6eec2f7fb\transformed\jetified-transport-runtime-3.1.5\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\a01cbf2b04a9c0a519db45a6eec2f7fb\transformed\jetified-transport-runtime-3.1.5\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.5] C:\Users\Ibonia\.gradle\caches\transforms-3\a01cbf2b04a9c0a519db45a6eec2f7fb\transformed\jetified-transport-runtime-3.1.5\AndroidManifest.xml:33:13-132
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ibonia\.gradle\caches\transforms-3\9065292e6f878d952a2fbd4561313428\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ibonia\.gradle\caches\transforms-3\9065292e6f878d952a2fbd4561313428\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ibonia\.gradle\caches\transforms-3\9065292e6f878d952a2fbd4561313428\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Ibonia\.gradle\caches\transforms-3\1f05079ee59c4be333cd542999319b23\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Ibonia\.gradle\caches\transforms-3\1f05079ee59c4be333cd542999319b23\transformed\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Ibonia\.gradle\caches\transforms-3\1f05079ee59c4be333cd542999319b23\transformed\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Ibonia\.gradle\caches\transforms-3\1f05079ee59c4be333cd542999319b23\transformed\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
